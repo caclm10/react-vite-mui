@@ -13,7 +13,7 @@ This is a [React][react] + [Vite][vite] boilerplate to be used with [Material UI
 ## Getting started
 1. Create the project.
 ```sh
-npx degit caclm10/react-vite-mui my-app
+npx degit caclm10/react-vite-mui#main my-app
 ```
 2. Access the project directory.
 ```sh
